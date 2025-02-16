@@ -1,0 +1,13 @@
+{
+  "screens": [
+    {
+      "name": "Welcome",
+      "componentName": "WelcomeScreen",
+      "is_navbar": true,
+      "icon": {
+        "focused": "home-outline",
+        "unfocused": "home-outline"
+      }
+    }
+  ]
+}
